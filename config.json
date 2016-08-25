@@ -1,0 +1,17 @@
+{
+  "http://example.com/": {
+    "condition": "contains",
+    "reference": "Domain",
+    "timing": 4
+  },
+  "http://www.onet.pl/": {
+    "condition": "contains",
+    "reference": "Dokumenty",
+    "timing": 7
+  },
+  "http://www.foobar.com/": {
+    "condition": "contains",
+    "reference": "Please login",
+    "timing": 10
+  }
+}
